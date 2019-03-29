@@ -8,5 +8,5 @@ Database normalization exercise
 
 Estimate: 1 hour
 Time start: 09:07
-Time end: 
-Actual duration: 
+Time end: 09:30
+Actual duration: 23 minutes
